@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake & Pulse",
+  "description": "A dark neon-themed Snake game with an integrated music player featuring AI-generated tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
